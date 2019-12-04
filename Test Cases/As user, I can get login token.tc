@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>As user, I can get login token</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>375c5dae-f67d-40a0-aada-70f4ea19f930</testCaseGuid>
+</TestCaseEntity>
