@@ -22,4 +22,10 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/As user, I can see spesific user</testCaseId>
    </testCaseLink>
+   <testCaseLink>
+      <guid>0d94ae3c-0513-4c49-a63f-64d92524982f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/As user, I can get login token</testCaseId>
+   </testCaseLink>
 </TestSuiteEntity>
